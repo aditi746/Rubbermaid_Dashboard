@@ -5,9 +5,10 @@ Tracks system-level transformation:
 - Leadership–Team Feedback Loop (Sponsor Council)
 - Decision speed, team health, collaboration KPIs
 
-## Local
+## Run locally
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
 ## Deploy (Streamlit Cloud)
-Point main file to `app/streamlit_app.py`. Data is CSV-backed (for demo).
+Repo: <your-username>/<repo>
+Main file: app/streamlit_app.py

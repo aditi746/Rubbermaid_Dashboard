@@ -1,5 +1,5 @@
 team_id,team_name,division,level,notes
-FS,Food Storage,Home Products,L2,"Stable delivery, limited adjacencies"
-JIS,Juvenile/Infant/Sports,Little Tikes,L1,Improving autonomy; strong design
-SM,Sportomotive,Seasonal Products,L1,Needs ownership clarity
-IWS,Industrial Waste Systems,Commercial Products,L3,Benchmark; sharing practices
+FS,Food Storage,Home Products,L2,Stable delivery
+JIS,Juvenile/Infant/Sports,Little Tikes,L1,Improving autonomy
+SM,Sportomotive,Seasonal,L1,Needs ownership clarity
+IWS,Industrial Waste Systems,Commercial,L3,Benchmark team
