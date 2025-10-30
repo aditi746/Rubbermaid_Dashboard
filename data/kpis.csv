@@ -1,0 +1,5 @@
+month,team_id,on_time_pct,cycle_time_delta,autonomy_index,sponsor_meeting_delta,innovation_hit_rate,team_health
+2025-09,FS,0.88,-0.12,0.62,-0.1,0.47,0.76
+2025-09,JIS,0.8,-0.08,0.55,-0.05,0.42,0.72
+2025-09,SM,0.74,-0.05,0.45,-0.03,0.3,0.68
+2025-09,IWS,0.93,-0.22,0.86,-0.55,0.65,0.88

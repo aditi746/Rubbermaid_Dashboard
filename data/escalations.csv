@@ -1,0 +1,4 @@
+date,team_id,issue,owner,status,resolution_days
+2025-09-02,SM,Late vendor samples,Ops,Closed,7.0
+2025-09-07,JIS,Pricing band exception,Finance,Open,
+2025-09-11,FS,Retailer planogram change,Sales,Closed,3.0

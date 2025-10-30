@@ -1,0 +1,5 @@
+date,team_id,decision,sla_days,resolved_days,type
+2025-09-05,JIS,Fast-track pilot for infant center,5,4,Fast-Track
+2025-09-10,FS,Approve tooling up to $150k,5,6,Approval
+2025-09-12,SM,Assign dedicated ops engineer,5,3,Unblock
+2025-09-15,IWS,No action; proceed per plan,5,1,Review
